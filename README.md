@@ -26,7 +26,6 @@
 ### 1️⃣ Clone or Download the Script
 ```bash
 git clone https://github.com/YOUR-USERNAME/mac-changer.git
-cd mac-changer
 ```
 # Make sure you have the right permissions (use sudo if required)
 ```bash
