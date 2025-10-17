@@ -83,7 +83,7 @@ Ensure ifconfig is installed (sudo apt install net-tools)
 
 💼 Python Developer | 🛡️ Cybersecurity Learner | Hacktivist
 
-<a href="https://suryaprasath11.github.io/portfoilo-">Protfolio</a>
+<a href="https://suryaprasath11.github.io/portfolio-">Protfolio</a>
 
 
 ### 💖 Support
